@@ -27,14 +27,6 @@ The network topology was designed using a centralized router architecture where:
 - Shared services such as DHCP, DNS, and File/Web Server are hosted within the HR network.
 - ACLs are used to enforce access restrictions.
 
----
-
-# Project Screenshot
-
-![Cisco Packet Tracer Topology]
-
----
-
 # Technologies Used
 
 - Cisco Packet Tracer

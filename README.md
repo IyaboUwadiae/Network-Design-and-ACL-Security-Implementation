@@ -267,8 +267,7 @@ The final network achieved secure communication while protecting sensitive organ
 
 This project provided hands-on experience in designing and securing a small enterprise network. Through subnetting, routing, DHCP, DNS, and ACL implementation, the network successfully enforced departmental security policies while maintaining proper communication across the organization.
 
-The implementation reflects real-world networking and cybersecurity administration practices commonly used in enterprise environments.
-
+The implementation reflects real-world networking and cybersecurity administration practices commonly used in enterprise environments [Read Report](https://drive.google.com/file/d/1bUZ2nL590RxxLR9JrOUyedw3LV854Y0S/view?usp=sharing)
 ---
 
 # Author

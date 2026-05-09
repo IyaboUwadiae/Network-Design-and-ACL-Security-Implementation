@@ -1,4 +1,4 @@
-# Network Design and ACL Security Implementation
+# Network Design & ACL Security Implementation
 
 ## Project Overview
 
